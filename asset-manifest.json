@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bef06302.css",
+    "main.js": "/portfolio/static/js/main.caf6152f.js",
+    "static/media/sketchChef.png": "/portfolio/static/media/sketchChef.374f96386a24214faa50.png",
+    "static/media/detaileChat.png": "/portfolio/static/media/detaileChat.a1252f9cf8717d42ede6.png",
+    "static/media/Sanjob Chat.png": "/portfolio/static/media/Sanjob Chat.7be4433d3f0cc829df6b.png",
+    "static/media/Rolehead.png": "/portfolio/static/media/Rolehead.7fcad73a8ac53cb0178f.png",
+    "static/media/IMG_7733.JPEG": "/portfolio/static/media/IMG_7733.39416ae0dc5aa52a4e40.JPEG",
+    "static/media/ss.png": "/portfolio/static/media/ss.0c9555f17a2179045099.png",
+    "static/media/freshDesk.png": "/portfolio/static/media/freshDesk.9da7b7975f94be900f57.png",
+    "static/media/Resume(Sara).pdf": "/portfolio/static/media/Resume(Sara).cd389282e1fd9a8810b5.pdf",
+    "static/media/weCare.PNG": "/portfolio/static/media/weCare.f178157ba0878d72f492.PNG",
+    "static/media/highchef.PNG": "/portfolio/static/media/highchef.4e524f0339c071bfe0d4.PNG",
+    "static/media/highmobchef.PNG": "/portfolio/static/media/highmobchef.d65685a543377f7c01c6.PNG",
+    "static/media/freshdesk2.png": "/portfolio/static/media/freshdesk2.94217816bfa2ce4a82fc.png",
+    "static/media/freshmob.png": "/portfolio/static/media/freshmob.4258faa21308e1887050.png",
+    "static/media/highSan.PNG": "/portfolio/static/media/highSan.731b2b7b83d54908a622.PNG",
+    "static/media/Tindog.PNG": "/portfolio/static/media/Tindog.4a28377e48cfcb81318a.PNG",
+    "static/media/pjstudio.PNG": "/portfolio/static/media/pjstudio.f37ce031b3e18d7024f2.PNG",
+    "static/media/porsan.PNG": "/portfolio/static/media/porsan.6ab0c032fe4e813fc32a.PNG",
+    "static/media/flow.PNG": "/portfolio/static/media/flow.d44937943ea446990c85.PNG",
+    "static/media/portochef.PNG": "/portfolio/static/media/portochef.1b09c3c4ec72caa6995b.PNG",
+    "static/media/freshsketch.jpg": "/portfolio/static/media/freshsketch.190f6effb5d01ea503c7.jpg",
+    "static/media/Twars.PNG": "/portfolio/static/media/Twars.62d4d3248760ebefda90.PNG",
+    "static/media/sanfrom.jpg": "/portfolio/static/media/sanfrom.420bc58560dea1e41904.jpg",
+    "static/media/lowchef.PNG": "/portfolio/static/media/lowchef.0f8cecec09adf32db467.PNG",
+    "static/media/lowsan.PNG": "/portfolio/static/media/lowsan.40d7932b057b64dc7e6b.PNG",
+    "static/media/chatui.PNG": "/portfolio/static/media/chatui.15f31d51cf3666b78c36.PNG",
+    "static/media/sanui.PNG": "/portfolio/static/media/sanui.db5a61b95c0f13ebff14.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.bef06302.css.map": "/portfolio/static/css/main.bef06302.css.map",
+    "main.caf6152f.js.map": "/portfolio/static/js/main.caf6152f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef06302.css",
+    "static/js/main.caf6152f.js"
+  ]
+}
