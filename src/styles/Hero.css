@@ -10,8 +10,8 @@
 
 .hero__grid h1{
     color: #3f3e3e;
-    font-size: 50px;
-    font-weight: 900;
+    font-size: 40px;
+    font-weight: 850;
 }
 
 .hero__grid p{
@@ -46,4 +46,57 @@
 
 .hero__grid--third{
     width: 250px;
+}
+
+@media screen and (max-width: 975px) {
+    .hero__grid h1{
+        color: #3f3e3e;
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+
+@media screen and (max-width: 752px) {
+    .hero__grid h1{
+        color: #3f3e3e;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .hero__grid p{
+        position: relative;
+        top: -0.5rem;
+        margin-top: 0px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .hero__grid{
+        flex-direction: column;
+        text-align: center;
+    }
+    .hero__grid--first{
+        margin-top: 1rem;
+    }
+    .hero__links{
+        display: flex;
+        flex-direction: row;
+        margin: 2rem 5rem;
+    }
+    .hero__grid--second img{
+        height: 200px;
+    }
+    .hero__grid h1{
+        color: #3f3e3e;
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .hero__grid p{
+        position: relative;
+        top: -0.5rem;
+        margin-top: 0px;
+        font-size: 15px;
+    }
 }

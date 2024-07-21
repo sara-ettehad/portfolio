@@ -31,3 +31,44 @@
 .header nav ul li a:hover {
     text-decoration: underline;
 }
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger .bar {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 4px 0;
+}
+
+@media (max-width: 800px) {
+    nav {
+        display: none;
+    }
+
+    nav.nav-open {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 0px;
+        background-color: #000000;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+}
