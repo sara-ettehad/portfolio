@@ -66,10 +66,10 @@ const App = () => {
       link: 'https://github.com/sara-ettehad/sanjob-from',
     },
     {
-      title: 'Fashion Landing Page',
+      title: 'Fashion Landing Page (Coming soon)',
       description: 'Responsive page that Codding by HTML, CSS, JavaScript, React.js, and Node.js',
       image: Fashion,
-      link: 'https://github.com/sara-ettehad/Fashion-LandingPage',
+      link: 'https://github.com/sara-ettehad/fashion',
     },
     {
       title: 'TinDog Website',
