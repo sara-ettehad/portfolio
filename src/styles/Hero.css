@@ -1,0 +1,49 @@
+.hero__grid{
+    background-color: #ffffff;
+    padding: 0px 100px 0px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;
+}
+
+.hero__grid h1{
+    color: #3f3e3e;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.hero__grid p{
+    position: relative;
+    top: -1rem;
+    margin-top: 0px;
+}
+
+.resume-button {
+    background: #fae101;
+    color: #000000;
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.resume-button:hover {
+    background: #000000;
+    color: #ffffff;
+}
+
+.hero__links{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+
+.hero__grid--second img{
+    height: 400px;
+}
+
+.hero__grid--third{
+    width: 250px;
+}

@@ -1,0 +1,11 @@
+.about-me{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 100px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1{
+    font-weight: 900;
+}
