@@ -2,6 +2,7 @@
     background-color: #ffffff;
     padding: 0px 100px 0px 100px;
     display: flex;
+    height: 400px;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
@@ -41,7 +42,10 @@
 }
 
 .hero__grid--second img{
-    height: 400px;
+    height: 280px;
+    width: 280px;
+    border: 20px solid #fae101;
+    border-radius: 50%;
 }
 
 .hero__grid--third{

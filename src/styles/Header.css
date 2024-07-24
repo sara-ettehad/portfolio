@@ -29,7 +29,8 @@
 }
 
 .header nav ul li a:hover {
-    text-decoration: underline;
+    transform: scale(1.2);
+    color: #fae101;
 }
 .hamburger {
     display: none;

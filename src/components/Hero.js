@@ -1,5 +1,5 @@
 import React from 'react';
-import Profile from '../image/IMG_7733.JPEG'; 
+import Profile from '../image/profile.JPEG'; 
 import { FaLinkedin } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
