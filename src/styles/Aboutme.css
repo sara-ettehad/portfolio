@@ -9,3 +9,21 @@
 h1{
     font-weight: 900;
 }
+.about__links{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 721px) {
+    .about__links{
+        margin: 1rem 0rem;
+    }
+    .about-me{
+        font-family: 'Roboto', sans-serif;
+        margin: 0;
+        padding: 30px;
+        background-color: #f5f5f5;
+        color: #333;
+    }
+}

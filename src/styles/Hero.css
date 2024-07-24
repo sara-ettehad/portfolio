@@ -75,10 +75,10 @@
     }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 720px) {
     .hero__grid{
-        flex-direction: column;
-        text-align: center;
+        height: auto;
+        padding: 1rem 0rem;
     }
     .hero__grid--first{
         margin-top: 1rem;
@@ -86,10 +86,11 @@
     .hero__links{
         display: flex;
         flex-direction: row;
-        margin: 2rem 5rem;
+        margin: 1rem 0rem;
     }
     .hero__grid--second img{
-        height: 200px;
+        height: auto;
+        width: 200px;
     }
     .hero__grid h1{
         color: #3f3e3e;
@@ -102,5 +103,18 @@
         top: -0.5rem;
         margin-top: 0px;
         font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .hero__grid{
+        height: auto;
+        padding: 1rem 0rem;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .hero__links{
+        margin: 1rem 3.1rem;
     }
 }
