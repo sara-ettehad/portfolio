@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2a9675a6.css",
-    "main.js": "/portfolio/static/js/main.1b55a39a.js",
+    "main.js": "/portfolio/static/js/main.3a977b7f.js",
     "static/media/sketchChef.png": "/portfolio/static/media/sketchChef.374f96386a24214faa50.png",
     "static/media/detaileChat.png": "/portfolio/static/media/detaileChat.a1252f9cf8717d42ede6.png",
     "static/media/Sanjob Chat.png": "/portfolio/static/media/Sanjob Chat.7be4433d3f0cc829df6b.png",
@@ -10,9 +10,11 @@
     "static/media/freshDesk.png": "/portfolio/static/media/freshDesk.9da7b7975f94be900f57.png",
     "static/media/Resume(Sara).pdf": "/portfolio/static/media/Resume(Sara).67e40b33f26d1373eb49.pdf",
     "static/media/weCare.PNG": "/portfolio/static/media/weCare.f178157ba0878d72f492.PNG",
+    "static/media/Axis.png": "/portfolio/static/media/Axis.432c2299791efc40eae1.png",
     "static/media/highchef.PNG": "/portfolio/static/media/highchef.4e524f0339c071bfe0d4.PNG",
     "static/media/profile.JPEG": "/portfolio/static/media/profile.8aa069472ec9b87b28fe.JPEG",
     "static/media/highmobchef.PNG": "/portfolio/static/media/highmobchef.d65685a543377f7c01c6.PNG",
+    "static/media/Academy.png": "/portfolio/static/media/Academy.14bc605a8220a39ab78f.png",
     "static/media/freshdesk2.png": "/portfolio/static/media/freshdesk2.94217816bfa2ce4a82fc.png",
     "static/media/freshmob.png": "/portfolio/static/media/freshmob.4258faa21308e1887050.png",
     "static/media/highSan.PNG": "/portfolio/static/media/highSan.731b2b7b83d54908a622.PNG",
@@ -30,10 +32,10 @@
     "static/media/sanui.PNG": "/portfolio/static/media/sanui.db5a61b95c0f13ebff14.PNG",
     "index.html": "/portfolio/index.html",
     "main.2a9675a6.css.map": "/portfolio/static/css/main.2a9675a6.css.map",
-    "main.1b55a39a.js.map": "/portfolio/static/js/main.1b55a39a.js.map"
+    "main.3a977b7f.js.map": "/portfolio/static/js/main.3a977b7f.js.map"
   },
   "entrypoints": [
     "static/css/main.2a9675a6.css",
-    "static/js/main.1b55a39a.js"
+    "static/js/main.3a977b7f.js"
   ]
 }
