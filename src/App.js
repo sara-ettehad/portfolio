@@ -15,6 +15,8 @@ import SanjobChat from './image/Sanjob Chat.png';
 import Fashion from './image/ss.png';
 import TinDog from './image/Tindog.PNG';
 import PJStudio from './image/pjstudio.PNG';
+import Academy from './image/Academy.png';
+import Axies from './image/Axis.png';
 import WeCare from './image/weCare.PNG';
 import SanjobFrom from './image/sanfrom.jpg';
 import TWAR from './image/Twars.PNG';
@@ -78,6 +80,19 @@ const App = () => {
       link: 'https://github.com/sara-ettehad/TinDog',
     },
     {
+      title: ' Academy Home Page',
+      description: 'desktop-base Home page that Codding by HTML, CSS, and JavaScript',
+      image: Academy,
+      link: 'https://sara-ettehad.github.io/Academy/',
+    },
+    
+    {
+      title: ' Axies Home Page',
+      description: 'desktop-base Home page that Codding by HTML, CSS, and JavaScript',
+      image: Axies,
+      link: 'https://sara-ettehad.github.io/Axies/',
+    },
+    {
       title: ' PJ-Studio Landing Page',
       description: 'Responsive page that Codding by HTML, CSS, and JavaScript',
       image: PJStudio,
@@ -85,7 +100,7 @@ const App = () => {
     },
     {
       title: 'WeCare Landing Page',
-      description: 'Desktop based page that Codding by HTML, CSS, JavaScript, and Bootstrap',
+      description: 'Desktop based page that Codding by HTML, CSS, and JavaScript',
       image: WeCare,
       link: 'https://github.com/sara-ettehad/We.care',
     },
