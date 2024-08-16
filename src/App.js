@@ -60,7 +60,6 @@ const App = () => {
   ];
 
   const CodingProjects = [
-    
     {
       title: 'Sanjob From (Coming soon)',
       description: 'Responsive page that Codding by HTML, CSS, JavaScript, React.js, and Node.js',
