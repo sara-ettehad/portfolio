@@ -69,7 +69,7 @@ const App = () => {
     
     {
       title: ' Academy Dashboard (Comming soon)',
-      description: 'desktop-base Home page that Codding by HTML, CSS, and JavaScript',
+      description: 'Desktop-base dashboard that Codding by HTML, CSS, JavaScript, React.js, and Node.js',
       image: Academy,
       link: 'https://sara-ettehad.github.io/Academy/',
     },
