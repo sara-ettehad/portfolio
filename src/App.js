@@ -60,14 +60,21 @@ const App = () => {
   ];
 
   const CodingProjects = [
+    //{
+      //title: 'Sanjob From (Coming soon)',
+      //description: 'Responsive page that Codding by HTML, CSS, JavaScript, React.js, and Node.js',
+      //image: SanjobFrom,
+      //link: 'https://github.com/sara-ettehad/sanjob-from',
+    //},
+    
     {
-      title: 'Sanjob From (Coming soon)',
-      description: 'Responsive page that Codding by HTML, CSS, JavaScript, React.js, and Node.js',
-      image: SanjobFrom,
-      link: 'https://github.com/sara-ettehad/sanjob-from',
+      title: ' Academy Dashboard (Comming soon)',
+      description: 'desktop-base Home page that Codding by HTML, CSS, and JavaScript',
+      image: Academy,
+      link: 'https://sara-ettehad.github.io/Academy/',
     },
     {
-      title: 'Fashion Landing Page',
+      title: 'Fashion website',
       description: 'Responsive page that Codding by HTML, CSS, JavaScript, React.js, and Node.js',
       image: Fashion,
       link: 'https://github.com/sara-ettehad/fashion',
@@ -77,12 +84,6 @@ const App = () => {
       description: 'Responsive website that Codding by HTML, CSS, JavaScript, and Bootstrap',
       image: TinDog,
       link: 'https://github.com/sara-ettehad/TinDog',
-    },
-    {
-      title: ' Academy Home Page',
-      description: 'desktop-base Home page that Codding by HTML, CSS, and JavaScript',
-      image: Academy,
-      link: 'https://sara-ettehad.github.io/Academy/',
     },
     
     {

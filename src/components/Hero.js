@@ -22,7 +22,7 @@ const Hero = () => {
                     <p>I am Front-end developer</p>
                     <a href={ pdfResume } className="resume-button" rel="noopener noreferrer">Resume</a>
                     <div className="hero__links">
-                        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="USERNAME_HERE" data-version="v1"><a href="www.linkedin.com/in/sara-ettehad"><FaLinkedin  size="30px"/></a></div>
+                        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="USERNAME_HERE" data-version="v1"><a href="https://www.linkedin.com/in/sara-ettehad/"><FaLinkedin  size="30px"/></a></div>
                         <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="USERNAME_HERE" data-version="v1"><a href="mailto:parisa98ettehad@gmail.com?body=My custom mail body"><SiGmail style={styleicon}  size="30px"/></a></div>
                         <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="USERNAME_HERE" data-version="v1"><a href="https://github.com/sara-ettehad"><FaGithub  size="30px"/></a></div>
                     </div>
